@@ -1,0 +1,8 @@
+﻿{
+  "databaseId": "db",
+  "containerId": "container",
+  "partitionKeyPath": "/myPartitionKey",
+
+  "accountEndpoint": "",
+  "accountKey": ""
+}
